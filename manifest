@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: A UILabel subclass that lets you animate text similar to Secret app.
+author: Sebastian Klaus
+license: TiShineLabel is available under the MIT license. See the LICENSE file for more info.
+copyright: Sebastian Klaus
+
+
+# these should not be edited
+name: TiShineLabel
+moduleid: com.lightapps.TiShineLabel
+guid: fa3167ba-ea47-4b76-8d19-06b32e1be090
+platform: iphone
+minsdk: 3.2.3.GA
